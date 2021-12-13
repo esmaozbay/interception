@@ -1,0 +1,6 @@
+s = 0
+i = 0
+arr = [7,0,88,5,92,9]
+  while i < len(arr)
+  i+=1
+print("The average of elements is" ,s)
