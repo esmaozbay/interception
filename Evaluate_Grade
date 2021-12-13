@@ -1,0 +1,17 @@
+#Evaluating_Grade
+
+x = 89
+if x < 60 :
+print ("fail")
+
+if x <=60 and x>=70:
+print ("pass")
+
+if x<=80 and x>=71:
+print ("good")
+
+if x<=90 and x>=81:
+print ("very good")
+
+if x<=100 and x>=91:
+print("excellent")
