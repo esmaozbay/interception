@@ -1,0 +1,7 @@
+s = 0
+i = 0
+arr = [7,0,88,5,92,9]
+  while i < len(arr):
+  s = s + arr[i]
+  i+=1
+print ("The sum of elements", s)
